@@ -14,7 +14,7 @@ CREATE DATABASE quanlyKaraoke;
 USE quanlyKaraoke;
 ```
 
-Sau đó, truy cập vào thư mục [database](file:///d:/JJin/Documents/Học/Học kì 2 - năm 3/DBMS/project_final/web_demo/database) trong dự án này và chạy tuần tự các file SQL theo đúng thứ tự dưới đây:
+Sau đó, truy cập vào thư mục [db_set_up](file:///d:/JJin/Documents/Học/Học kì 2 - năm 3/DBMS/project_final/web_demo/db_set_up) trong dự án này và chạy tuần tự các file SQL theo đúng thứ tự dưới đây:
 
 1. 📄 **`create_table.sql`**: Khởi tạo cấu trúc các bảng.
 2. 📄 **`constraint.sql`**: Thiết lập khóa ngoại và ràng buộc toàn vẹn giữa các bảng.
